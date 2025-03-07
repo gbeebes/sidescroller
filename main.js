@@ -1,4 +1,4 @@
-class Game{
+class Game {
     constructor(canvas, context){
         this.canvas = canvas;
         this.context = context;
